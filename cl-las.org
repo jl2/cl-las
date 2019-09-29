@@ -1,0 +1,14 @@
+* cl-las
+** About
+A Common Lisp library for reading LAS files with Lidar data.
+
+** License
+ISC
+
+
+Copyright (c) 2019 Jeremiah LaRocco <jeremiah_larocco@fastmail.com>
+
+
+* Plan
+** Create binary-type for header
+** Read header from a .las file
